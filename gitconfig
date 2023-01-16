@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = salmoth6@yahoo.fr
+	name = Thierry Salmon
